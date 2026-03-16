@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a undergraduate student at School of Physics, Peking University.
+
+<!--
 
 ## Research Interests
 
@@ -21,3 +23,5 @@ I am a Ph.D. student at ...
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+-->
