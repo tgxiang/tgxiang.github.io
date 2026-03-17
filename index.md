@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a undergraduate student at School of Physics, Peking University.
+I am a senior undergraduate student at the School of Physics, Peking University. My research interests are condensed matter theory (CMT) and AI for physics.
 
 <!--
 

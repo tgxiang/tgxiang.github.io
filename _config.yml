@@ -1,14 +1,14 @@
 # Basic Information 
 title: Tiange Xiang
 position: Undergraduate Student
-affiliation: School of Physics, Peking University
+affiliation: School of Physics, \ Peking University
 ## email: yourname (at) example.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-## keywords: minimal light
-## description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-## canonical: https://tgxiang.github.io/
+keywords: Tiange Xiang, Physics, Peking University, AI for Science, Condensed Matter Theory, Machine Learning
+description: Greetings, I'm Tiange Xiang (项天歌), a senior undergraduate student at the School of Physics, Peking University. My research interests are condensed matter theory (CMT) and AI for physics.
+canonical: https://tgxiang.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
